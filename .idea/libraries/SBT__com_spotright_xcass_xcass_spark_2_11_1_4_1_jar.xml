@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.spotright.xcass:xcass-spark_2.11:1.4.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.spotright.xcass/xcass-spark_2.11/jars/xcass-spark_2.11-1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.spotright.xcass/xcass-spark_2.11/srcs/xcass-spark_2.11-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.sun.xml.bind:jaxb-impl:2.2.3-1:jar">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.sun.xml.bind/jaxb-impl/srcs/jaxb-impl-2.2.3-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

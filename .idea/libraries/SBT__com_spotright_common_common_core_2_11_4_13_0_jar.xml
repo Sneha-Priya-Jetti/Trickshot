@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.spotright.common:common-core_2.11:4.13.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.spotright.common/common-core_2.11/jars/common-core_2.11-4.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.spotright.common/common-core_2.11/srcs/common-core_2.11-4.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

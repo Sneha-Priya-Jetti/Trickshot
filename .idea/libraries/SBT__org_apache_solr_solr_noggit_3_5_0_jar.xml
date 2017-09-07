@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.solr:solr-noggit:3.5.0:jar">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-noggit/3.5.0/solr-noggit-3.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

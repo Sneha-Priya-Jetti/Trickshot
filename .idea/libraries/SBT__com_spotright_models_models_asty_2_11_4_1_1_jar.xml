@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.spotright.models:models-asty_2.11:4.1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.spotright.models/models-asty_2.11/4.1.1/jars/models-asty_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.spotright.models/models-asty_2.11/4.1.1/srcs/models-asty_2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
